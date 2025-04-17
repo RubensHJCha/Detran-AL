@@ -1,18 +1,4 @@
 {
-  "version": "6",
-  "id": "cm84ibvn4003dlv53xdut1j63",
-  "name": "Detran-AL Encerrar",
-  "events": [
-    {
-      "id": "ytcul2jov3da6py7mf99o37s",
-      "outgoingEdgeId": "g50rt98jetomh6vvqbj6kpgi",
-      "graphCoordinates": {
-        "x": -349,
-        "y": 342
-      },
-      "type": "start"
-    }
-  ],
   "groups": [
     {
       "id": "jaasvg2kg2zj8c5phf7afh8v",
